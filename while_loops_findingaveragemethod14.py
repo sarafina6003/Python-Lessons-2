@@ -6,7 +6,7 @@ sum = 0.0
 number = 1
 
 while number != 0:
-    number = int(input(""))
+    number = int(input("Enter Mark: "))
     sum = sum + number
     count += 1
 
