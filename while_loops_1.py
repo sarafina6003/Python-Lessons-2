@@ -2,7 +2,13 @@
 #while (while something is true, the loop runs)
 #for loop
 
-counter = 1
+counter = -100
 while counter <100:
-    print(counter)
-    counter +=1
+ print(counter)
+counter +=10 #incrementing
+
+
+    
+
+
+
