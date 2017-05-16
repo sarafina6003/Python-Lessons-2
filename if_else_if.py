@@ -1,5 +1,7 @@
 while True:
     age = input("Enter your age: ")
+    if age == 'DONE':
+        break
     age = int(age)
 
     if age <5 :
